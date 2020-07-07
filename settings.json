@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/Users/yusuke/anaconda3/bin/python",
+    "editor.renderWhitespace": "boundary"
+    "workbench.colorCustomizations": {
+        "editor.lineHighlightBackground": "#0f2f2f"
+    }
+}
